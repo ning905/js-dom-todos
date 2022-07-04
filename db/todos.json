@@ -1,6 +1,5 @@
 {
-  "todos": [
-    {
+  "todos": [{
       "id": 1,
       "title": "Feed the cat",
       "completed": false
